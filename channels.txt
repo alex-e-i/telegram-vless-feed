@@ -1,0 +1,3 @@
+# One PUBLIC Telegram channel username per line, without @.
+# Example: channel_username (replace with actual channel)
+# Keep empty until you choose trusted sources.
