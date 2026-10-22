@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-22T04:49:40.119532+00:00",
+  "updated_at": "2026-10-22T11:55:14.278642+00:00",
   "channels": {
     "Farah_VPN": {
       "status": "ok",
-      "extracted": 190
+      "extracted": 200
     },
     "VEGAAS_VPN1": {
       "status": "ok",
@@ -11,15 +11,15 @@
     },
     "FarazV2ray": {
       "status": "ok",
-      "extracted": 71
+      "extracted": 69
     }
   },
   "verification_enabled": true,
-  "collected_unique": 218,
+  "collected_unique": 227,
   "verification": {
-    "ok": 96,
-    "failed": 100,
-    "unsupported": 22
+    "ok": 102,
+    "failed": 93,
+    "unsupported": 32
   },
-  "published": 96
+  "published": 102
 }
