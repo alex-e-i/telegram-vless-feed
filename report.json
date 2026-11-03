@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T00:59:11.338086+00:00",
+  "updated_at": "2026-11-03T23:24:50.458843+00:00",
   "channels": {
     "Farah_VPN": {
       "status": "ok",
@@ -11,15 +11,15 @@
     },
     "FarazV2ray": {
       "status": "ok",
-      "extracted": 171
+      "extracted": 135
     }
   },
   "verification_enabled": true,
-  "collected_unique": 342,
+  "collected_unique": 309,
   "verification": {
-    "ok": 207,
-    "failed": 97,
-    "unsupported": 38
+    "ok": 211,
+    "failed": 69,
+    "unsupported": 29
   },
-  "published": 207
+  "published": 211
 }
